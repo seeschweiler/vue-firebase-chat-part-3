@@ -1,3 +1,6 @@
+import firebase from 'firebase/app';
+import firestore from 'firebase/firestore';
+
 var config = {
     apiKey: "AIzaSyBBHnR9gQG8Te7UZ0LPD05eaN2peLRydSo",
     authDomain: "vuejs-firebase-01.firebaseapp.com",
